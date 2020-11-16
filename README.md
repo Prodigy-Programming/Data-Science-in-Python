@@ -1,2 +1,3 @@
 # Data-Science-in-Python
-![logo-min](https://user-images.githubusercontent.com/63045639/99226499-e7973900-280f-11eb-966e-dfd78876bb10.png)
+![githubbanner](https://user-images.githubusercontent.com/63045639/99227104-cdaa2600-2810-11eb-9c19-bb5ba1735a1f.png)
+
